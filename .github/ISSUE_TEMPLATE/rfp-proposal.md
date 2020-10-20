@@ -1,6 +1,6 @@
 ---
 name: RFP Proposal
-about: A proposal fulfilling an RFP ⚠️ on hold until Q1 2021 ⚠️
+about: A proposal fulfilling an RFP ⚠️ IPLD is only making limited use of RFP's, most will be denied until 2021 ⚠️
 title: 'RFP Proposal: <Your Project Title>'
 labels: type:RFP
 assignees: ''
